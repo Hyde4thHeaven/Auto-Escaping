@@ -4,7 +4,7 @@
   
 When the 7th episode shows up, the Legendary man, Hyde4thHeaven is also known as "the Man with Seven Episodes", due to the seven episode engraved on his wall patterned after the shape of the Big Dipper. Hyde4thHeaven's famous catchphrase just prior to an vulnerability's death is "You are already dead!" (お前はもう死んでいる, Omae wa mō shindeiru).  
   
-To reduce the risk of cross-site scripting attacks, templating systems, such as Twig, Django, Smarty, Groovy's template engine, allow configuration of automatic variable escaping before rendering templates. When escape occurs, characters that make sense to the browser (eg: \<a>) will be transformed/replaced with escaped/sanitized values (eg: & lt;a& gt; ).  
+**To reduce the risk of cross-site scripting attacks**, templating systems, allow configuration of automatic variable escaping before rendering templates. **When escape occurs, characters** that make sense to the browser (eg: \<a>) **will be transformed/replaced with escaped/sanitized values** (eg: & lt;a& gt; ).  
   
 Auto-escaping is not a magic feature to annihilate all cross-site scripting attacks, it depends on the strategy applied and the context, for example a "_html auto-escaping_" strategy (which only transforms html characters into html entities) will not be relevant when variables are used in a html attribute because ':' character is not escaped and thus an attack as below is possible:  
   
@@ -19,7 +19,7 @@ Templates are used to render web content and
 There is a risk if you answered yes to any of those questions.  
   
 ### Recommended Secure Coding Practices  
-Enable auto-escaping by default and continue to review the use of inputs in order to be sure that the chosen auto-escaping strategy is the right one.
+**Enable auto-escaping by default** and continue to review the use of inputs in order to be sure that the chosen auto-escaping strategy is the right one.
   
 ## Sensitive Code Example
 <div align="center"> <img src="False.png"/> </div> 
@@ -28,8 +28,6 @@ Enable auto-escaping by default and continue to review the use of inputs in orde
 <div align="center"> <img src="True.png"/> </div> 
    
 **Another secure function is done!** Secured coding is just a flipped hand when you know the hint!
-
-Let's hunt more vulnerable code to make **Code for Security** next episode. Stay tuned!  
   
 **#(autoescape=True) #Code4Sec**  
   
