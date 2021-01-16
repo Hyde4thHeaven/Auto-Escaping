@@ -22,10 +22,10 @@ There is a risk if you answered yes to any of those questions.
 Enable auto-escaping by default and continue to review the use of inputs in order to be sure that the chosen auto-escaping strategy is the right one.
   
 ## Sensitive Code Example
-<div align="center"> <img src="false.png"/> </div> 
+<div align="center"> <img src="False.png"/> </div> 
     
 ## Solution
-<div align="center"> <img src="true.png"/> </div> 
+<div align="center"> <img src="True.png"/> </div> 
    
 **Another secure function is done!** Secured coding is just a flipped hand when you know the hint!
 
@@ -34,12 +34,13 @@ Let's hunt more vulnerable code to make **Code for Security** next episode. Stay
 **#(autoescape=True) #Code4Sec**  
   
 **Credit/Ref:**  
-- OWASP Cheat Sheet - XSS Prevention Cheat Sheet
-- OWASP Top 10 2017 Category A7 - Cross-Site Scripting (XSS)
-- MITRE, CWE-79 - Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
-- MITRE, CWE-80 - Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS)
-- MITRE, CWE-83 - Improper Neutralization of Script in Attributes in a Web Page
-- MITRE, CWE-84 - Improper Neutralization of Encoded URI Schemes in a Web Page
+- [Python static code analysis](https://rules.sonarsource.com/python/type/Security%20Hotspot/RSPEC-5247)
+- [OWASP Cheat Sheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.md) - XSS Prevention Cheat Sheet
+- [OWASP Top 10 2017 Category A7](https://www.owasp.org/index.php/Top_10-2017_A7-Cross-Site_Scripting_(XSS)) - Cross-Site Scripting (XSS)
+- [MITRE, CWE-79](https://cwe.mitre.org/data/definitions/79.html) - Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
+- [MITRE, CWE-80](https://cwe.mitre.org/data/definitions/80.html) - Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS)
+- [MITRE, CWE-83](https://cwe.mitre.org/data/definitions/83.html) - Improper Neutralization of Script in Attributes in a Web Page
+- [MITRE, CWE-84](https://cwe.mitre.org/data/definitions/84.html) - Improper Neutralization of Encoded URI Schemes in a Web Page
    
 ______________________________
 <table border="0">
