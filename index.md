@@ -1,8 +1,8 @@
-## Welcome to 7th episode of my series **Code for Security**.  
+## Welcome to the 7th episode of my series **Code for Security**.  
 
 <div align="center"> <img src="cover.png"/> </div>  
   
-When 7th episode shows up, the Legendary man, Hyde4thHeaven is also known as "the Man with Seven Episodes", due to the seven episode engraved on his wall patterned after the shape of the Big Dipper. Hyde4thHeaven's famous catchphrase just prior to an vulnerability's death is "You are already dead!" (お前はもう死んでいる, Omae wa mō shindeiru).
+When the 7th episode shows up, the Legendary man, Hyde4thHeaven is also known as "the Man with Seven Episodes", due to the seven episode engraved on his wall patterned after the shape of the Big Dipper. Hyde4thHeaven's famous catchphrase just prior to an vulnerability's death is "You are already dead!" (お前はもう死んでいる, Omae wa mō shindeiru).
   
     
 ## Solution
