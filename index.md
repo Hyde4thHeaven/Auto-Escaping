@@ -8,8 +8,8 @@ To reduce the risk of cross-site scripting attacks, templating systems, such as 
   
 Auto-escaping is not a magic feature to annihilate all cross-site scripting attacks, it depends on the strategy applied and the context, for example a "_html auto-escaping_" strategy (which only transforms html characters into html entities) will not be relevant when variables are used in a html attribute because ':' character is not escaped and thus an attack as below is possible:  
   
-> <a href="{{ myLink }}">link</a> // myLink = javascript:alert(document.cookie)  
-> <a href="javascript:alert(document.cookie)">link</a> // JS injection (XSS attack)  
+> \<a href="{{ myLink }}">link</a> // myLink = javascript:alert(document.cookie)  
+> \<a href="javascript:alert(document.cookie)">link</a> // JS injection (XSS attack)  
   
 ### Ask Yourself Whether  
 Templates are used to render web content and  
