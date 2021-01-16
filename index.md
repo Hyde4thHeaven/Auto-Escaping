@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to 7th episode of my series **Code for Security**.  
 
-You can use the [editor on GitHub](https://github.com/Hyde4thHeaven/Auto-Escaping/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<div align="center"> <img src="cover.png"/> </div>  
+  
+When 7th episode shows up, the Legendary man, Hyde4thHeaven is also known as "the Man with Seven Episodes", due to the seven episode engraved on his wall patterned after the shape of the Big Dipper. Hyde4thHeaven's famous catchphrase just prior to an vulnerability's death is "You are already dead!" (お前はもう死んでいる, Omae wa mō shindeiru).
+  
+    
+## Solution
+  
+   
+**Another secure function is done!** Secured coding is just a flipped hand when you know the hint!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hyde4thHeaven/Auto-Escaping/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Let's hunt more vulnerable code to make **Code for Security** next episode. Stay tuned!  
+  
+**#generate_private_key() #Code4Sec**  
+  
+Credit/Ref:  
+-   
+   
+______________________________
+<table border="0">
+ <tr>
+   <td> <h3><i>Although my profile picture is quiet, but the real me can make some noise.</i></h3>
+      <hr>
+      <b><font color="Blue"> Author: Vuttawat Uyanont </font></b>  <br>
+      <font color="grey"><i>Sexiest former engineer & banker who interested in Tech, Sake, and Beer.</i></font>  <br>
+      <b>Studying:</b> Master Computer Science in Cybersecurity Management at Mahanakorn University.  <br> </td>  
+   <td><img src="Author.png" width="150"/></td>  
+ </tr>
+</table>
+  
